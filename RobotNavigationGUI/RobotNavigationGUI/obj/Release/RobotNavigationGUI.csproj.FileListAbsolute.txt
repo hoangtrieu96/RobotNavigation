@@ -1,0 +1,10 @@
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\bin\Release\RobotNavigationGUI.exe
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\bin\Release\RobotNavigationGUI.exe.config
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\obj\Release\RobotNavigationGUI.Form1.resources
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\obj\Release\RobotNavigationGUI.Form2.resources
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\obj\Release\RobotNavigationGUI.Properties.Resources.resources
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\obj\Release\RobotNavigationGUI.csproj.GenerateResource.Cache
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\obj\Release\RobotNavigationGUI.exe
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\obj\Release\RobotNavigationGUI.pdb
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\obj\Release\RobotNavigationGUI.csprojResolveAssemblyReference.cache
+H:\Uni\Introduction to Artificial Intelligence\Week3\Assignment 1\RobotNavigationGUI\RobotNavigationGUI\bin\Release\RobotNavigationGUI.pdb
